@@ -98,5 +98,5 @@ index=* sourcetype="*Sysmon*"
 ---
 
 ## 👤 Author & Team
-* **Lab Architect:** [Your Name / GitHub Profile]
+* **Lab Architect:** Ahmmad Alkufahy, Mohammad AlNabelsi, Ahmad Migdadi
 * **Collaboration Tooling:** RustDesk for persistent cross-network remote access.
