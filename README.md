@@ -38,8 +38,8 @@ A hands-on, multi-node cybersecurity lab integrating Windows 11 log telemetry, K
 | Node Name | Operating System | IP Address | Function / Role |
 | :--- | :--- | :--- | :--- |
 | **SIEM Server** | Ubuntu Server/Desktop | `192.168.43.128` | Centralized Splunk Indexer & Web Console |
-| **Endpoint Host** | Windows 11 | `192.168.43.130` | Target workstation running Sysmon & Universal Forwarder |
-| **Attack Node** | Kali Linux VM | `192.168.43.130` | Security testing node configured with RustDesk for remote access |
+| **Windows Endpoint Host** | Windows 11 | `192.168.43.130` | Target workstation running Sysmon & Universal Forwarder |
+| **Kali Endpoint Host** | Kali Linux VM | `192.168.43.129` | Security testing node configured with RustDesk for remote access |
 
 ---
 
